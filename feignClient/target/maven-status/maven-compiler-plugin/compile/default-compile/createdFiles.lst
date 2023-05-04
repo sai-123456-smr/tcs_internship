@@ -1,0 +1,5 @@
+com\example\feignClient\Exception\StudentNotFoundException.class
+com\example\feignClient\Model\StudentModel.class
+com\example\feignClient\FeignClientApplication.class
+com\example\feignClient\ClientDemo\StudentClient.class
+com\example\feignClient\FeignController\FeignController.class

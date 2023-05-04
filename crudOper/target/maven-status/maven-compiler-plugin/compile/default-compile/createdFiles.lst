@@ -1,0 +1,6 @@
+com\example\crudOper\Repo\StudentRepository.class
+com\example\crudOper\Entity\StudentModel.class
+com\example\crudOper\Service\StudentService.class
+com\example\crudOper\Controller\StudentController.class
+com\example\crudOper\CrudOperApplication.class
+com\example\crudOper\Exception\StudentNotFoundException.class
